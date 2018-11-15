@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Q296004/Form1.cs) (VB: [Form1.vb](./VB/Q296004/Form1.vb))
+* [PersistentClasses.cs](./CS/Q296004/PersistentClasses.cs) (VB: [PersistentClasses.vb](./VB/Q296004/PersistentClasses.vb))
+* [ValidationModule.cs](./CS/Q296004/ValidationModule.cs) (VB: [ValidationModule.vb](./VB/Q296004/ValidationModule.vb))
+<!-- default file list end -->
 # How to: Use CustomAttribute to apply validation rules to persistent properties
 
 
